@@ -1,0 +1,2 @@
+# nifiStartScript
+nifiEC2StartScript
